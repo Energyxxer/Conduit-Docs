@@ -56,7 +56,7 @@ Open the file called `.cdiproj` inside the project directory and add the followi
     "file_generation"
 ]
 ```
-Copy the path to the Standard Library you extracted/cloned and paste it inside the path string. Make sure to escape any characters such as `\` in Windows paths.
+Copy the path to the Standard Library you extracted/cloned and paste it inside the path string. Make sure to escape any special characters such as `\` in Windows paths.
 
 Double check that there are no missing/duplicated commas and save.
 
