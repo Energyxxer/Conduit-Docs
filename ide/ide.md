@@ -1,3 +1,10 @@
+---
+layout: default
+title: IDE
+nav_order: 4
+has_children: true
+permalink: ide
+---
 # IDE
 
 Conduit-UI is an IDE, which is custom-built for languages like Conduit.
