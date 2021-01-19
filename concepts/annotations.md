@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Annotations
+nav_order: 2
 parent: Concepts
 ---
 # Annotations
@@ -11,7 +12,7 @@ Annotation classes must extend from `Conduit.Core.Native.Annotation`. Aside from
 
 Annotating a class is done with the following syntax:
 ```csharp
-@AnnotationClassName(<constructorArguments...>)
+@AnnotationClass(<constructorArguments...>)
 public class AnnotatedClass {
     #...
 }

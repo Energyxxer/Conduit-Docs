@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+nav_order: 0
+---
 ## Home
 
 You can use the [editor on GitHub](https://github.com/Energyxxer/Conduit-Docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

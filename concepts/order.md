@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stages & Evaluation Order
+nav_order: 1
 parent: Concepts
 ---
 # Stages & Evaluation Order
