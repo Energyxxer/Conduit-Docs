@@ -25,7 +25,7 @@ Extract the zip.
 
 In Conduit-UI, expand the project you've just created and open a file called `.cdiproj` (if you don't see it, click the cog icon next to "EXPLORER" and tick "Show Project Files").
 Add the following properties to the root JSON object:
-```JSON
+```json
 "dependencies": [
     {
         "path": "PATH/TO/STANDARD/LIBRARY",
