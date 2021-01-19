@@ -24,7 +24,8 @@ Example:
 `C:\\Users\\PC\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\minecraftWorlds\\Project TEST\\behavior_packs\\testBP`
 
 NOTE
-{: .label .label-blue } Windows file paths use `\` as the separator, which also happens to be the escape character in JSON. Make sure to either escape the separators (turning `\` into `\\`), or replace them with `/`, which do not need to be escaped.
+{: .label .label-blue }
+Windows file paths use `\` as the separator, which also happens to be the escape character in JSON. Make sure to either escape the separators (turning `\` into `\\`), or replace them with `/`, which do not need to be escaped.
 
 ## Setting up the Standard Library
 
