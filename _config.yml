@@ -14,16 +14,3 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 color_scheme: dark
-
-collections:
-  ide:
-    permalink: "/ide"
-    output: true
-
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "docs" collection
-    ide:
-      # Give the collection a name
-      name: IDE
