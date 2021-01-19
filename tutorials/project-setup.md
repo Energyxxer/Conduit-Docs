@@ -27,8 +27,10 @@ NOTE
 {: .label .label-blue }
 Windows file paths use `\` as the separator, which also happens to be the escape character in JSON. Make sure to either escape the separators (turning `\` into `\\`), or replace them with `/`, which do not need to be escaped.
 
-{: .note .info}
+{: .label .label-blue }
 Windows file paths use `\` as the separator, which also happens to be the escape character in JSON. Make sure to either escape the separators (turning `\` into `\\`), or replace them with `/`, which do not need to be escaped.
+
+{: .label .label-blue } Windows file paths use `\` as the separator, which also happens to be the escape character in JSON. Make sure to either escape the separators (turning `\` into `\\`), or replace them with `/`, which do not need to be escaped.
 
 ## Setting up the Standard Library
 
