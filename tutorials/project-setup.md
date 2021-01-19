@@ -27,6 +27,9 @@ NOTE
 {: .label .label-blue }
 Windows file paths use `\` as the separator, which also happens to be the escape character in JSON. Make sure to either escape the separators (turning `\` into `\\`), or replace them with `/`, which do not need to be escaped.
 
+{: .note .info}
+Windows file paths use `\` as the separator, which also happens to be the escape character in JSON. Make sure to either escape the separators (turning `\` into `\\`), or replace them with `/`, which do not need to be escaped.
+
 ## Setting up the Standard Library
 
 The Conduit Standard Library for Bedrock doesn't come bundled with the language, as it is still a work-in-progress.
