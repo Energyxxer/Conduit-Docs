@@ -1,1 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
+title: Conduit Documentation
+permalink: pretty
+
+# Aux links for the upper right navigation
+aux_links:
+  "Language and IDE on GitHub":
+    - "//github.com/Energyxxer/Conduit"
+  "Standard Library on GitHub":
+    - "//github.com/Energyxxer/Conduit-Standard-Library"
